@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## Seja Bem-vindo, sou o Igor 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Proggy&size=30&pause=1000&color=000000&background=F9FFB400&width=500&lines=Seja+Bem-vindo%2C+sou+o+Igor+%F0%9F%91%8B)](https://git.io/typing-svg)
 
   #### Olá, me chamo Igor Corrêa. Desenvolvedor, estudante e apaixonado pela tecnologia. Carioca, residente de Vila Velha - ES. Graduando em Análise e desenvolvimento de sistemas. Com mais de 3 anos de experiência.
 
