@@ -5,10 +5,10 @@
   #### Olá, me chamo Igor Corrêa. Desenvolvedor, estudante e apaixonado pela tecnologia. Carioca, residente de Vila Velha - ES. Graduando em Análise e desenvolvimento de sistemas. Com mais de 3 anos de experiência.
 
   <br><br>
-
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCorrea01&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorCorrea01&show_icons=true&theme=radical" />
-
+  
+  <img width="40%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCorrea01&layout=compact&theme=radical" />
+  <img  width="45%" height="50%" src="https://github-readme-stats.vercel.app/api?username=IgorCorrea01&show_icons=true&theme=radical" />
+  
   <br><br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
