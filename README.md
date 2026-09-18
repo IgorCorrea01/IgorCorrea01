@@ -1,70 +1,53 @@
-<div align="center">
+# Igor Corrêa
 
-# Olá, eu sou o Igor Corrêa 👋
+**Software Engineer | .NET & C#**  
+Building resilient backend services, scalable APIs, and robust enterprise software.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=650&lines=Desenvolvedor+Backend+%7C+.NET+%26+C%23;Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+APIs+REST;C%23+%E2%80%A2+.NET+9+%E2%80%A2+EF+Core+%E2%80%A2+PostgreSQL;Desenvolvimento+Full+Stack+(React+%2F+Next.js))](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/igor-almeida-718498182/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:igoralmeida265@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Corrêa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-almeida-718498182/)
+[![Email](https://img.shields.io/badge/Email-igoralmeida265%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:igoralmeida265@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Brazil-555555?style=flat&logo=googlemaps&logoColor=white)](#)
 
 ---
 
-### 🚀 Sobre Mim
+### 👨‍💻 Professional Background
 
-Desenvolvedor de Software com **foco principal no ecossistema Backend (.NET / C#)**. Apaixonado por arquitetura de software, boas práticas de engenharia (**Clean Architecture**, **Domain-Driven Design (DDD)**, **SOLID**) e desenvolvimento de APIs RESTful robustas e performáticas.
+Software Engineer with **~5 years of hands-on experience** developing, evolving, and maintaining enterprise applications and ERP systems in the **.NET (C#)** ecosystem.
 
-No frontend, tenho conhecimento e experiência prática integrando aplicações completas com **React**, **Next.js**, **TypeScript** e **Tailwind CSS**.
-
-- 📍 Natural de **São Gonçalo - RJ**, residente em **Vila Velha - ES**.
-- 🎯 Foco contínuo em **Backend**, regras de negócio, modelagem de dados e arquiteturas limpas.
-- 💡 Experiência em autenticação (JWT), ORMs (Entity Framework Core), bancos relacionais e integração com serviços cloud.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-#### **Backend & Arquitetura (Foco Principal)**
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql" alt="Backend and Database" />
-</p>
-
-#### **Frontend & UI (Desenvolvimento Full Stack)**
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend" />
-</p>
-
-#### **DevOps, Cloud & Ferramentas**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,visualstudio,vscode,postman,cloudflare" alt="Tools and Cloud" />
-</p>
-
-</div>
+Throughout my career in production environments, I have focused on:
+- **Enterprise Systems & ERP**: Implementing and refactoring complex business rules, transactional flows, and high-reliability operational routines.
+- **Backend Architecture & APIs**: Designing RESTful services with ASP.NET Core, applying Clean Architecture, Domain-Driven Design (DDD) principles, and SOLID patterns.
+- **Relational Databases & Data Modeling**: Designing database schemas, optimizing complex SQL queries, and handling data persistence with PostgreSQL and ORMs (Entity Framework Core, DevExpress XPO).
+- **Legacy Evolution & Modernization**: Maintaining and scaling existing desktop and web software while transitioning modules toward modern .NET standards.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ Technical Toolkit
 
-<div align="center">
+#### **Core Backend & Enterprise (.NET)**
+- **Languages & Frameworks:** C#, .NET 9 / .NET 8, .NET Framework, ASP.NET Core Web API
+- **Architecture & Practices:** Clean Architecture, Domain-Driven Design (DDD), SOLID Principles, Design Patterns, RESTful APIs
+- **ORM & Data Persistence:** Entity Framework Core, DevExpress eXpress Persistent Objects (XPO), Dapper
+- **Databases:** PostgreSQL, SQL Server, Relational Modeling & Complex SQL Queries
+- **Enterprise Desktop / Frameworks:** WinForms, DevExpress Components
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IgorCorrea01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCorrea01&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
-</p>
-
-</div>
+#### **Full-Stack & Cloud Integration**
+- **Frontend Integration:** TypeScript, React, Next.js, Tailwind CSS
+- **Authentication & Security:** JWT (JSON Web Tokens), BCrypt, Role-Based Access Control
+- **DevOps & Cloud:** Docker, Cloudflare R2 / AWS S3 Storage Integration, Git / GitHub
 
 ---
 
-<div align="center">
-  <p>✨ <i>"Escrevendo código limpo, estruturado e com propósito."</i> ✨</p>
-</div>
+### 🌟 Featured Project
+
+#### 👑 [TrançaFlow — Multi-Tenant SaaS Platform](https://github.com/IgorCorrea01/saas-trancistas)
+A full-stack, multi-tenant SaaS platform built to automate custom service quotations, schedule appointments, and manage client workflows.
+
+- **Architecture:** Clean Architecture with ASP.NET Core 9 Web API (Domain, Application, Infrastructure, API layers).
+- **Key Concepts:** Domain-Driven Design (DDD), multi-tenancy isolation, JWT authentication, Entity Framework Core 9, PostgreSQL (Neon), Cloudflare R2 cloud storage, and responsive Next.js 15 frontend.
+
+---
+
+### 📬 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/igor-almeida-718498182](https://www.linkedin.com/in/igor-almeida-718498182/)
+- **Email:** [igoralmeida265@gmail.com](mailto:igoralmeida265@gmail.com)
