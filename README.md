@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Igor Corrêa 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full+Stack+Developer;Especialista+em+.NET+%26+Next.js;Clean+Architecture+%7C+DDD+%7C+Microsservi%C3%A7os;Criando+SaaS+e+solu%C3%A7%C3%B5es+de+alta+performance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=650&lines=Desenvolvedor+Backend+%7C+.NET+%26+C%23;Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+APIs+REST;C%23+%E2%80%A2+.NET+9+%E2%80%A2+EF+Core+%E2%80%A2+PostgreSQL;Desenvolvimento+Full+Stack+(React+%2F+Next.js))](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/igor-almeida-718498182/" target="_blank">
@@ -19,58 +19,36 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor de Software **Full Stack** com sólida experiência no ecossistema **.NET (C#)** e **Next.js / TypeScript**. Apaixonado por engenharia de software, boas práticas, **Clean Architecture**, **Domain-Driven Design (DDD)** e construção de aplicações web escaláveis e eficientes.
+Desenvolvedor de Software com **foco principal no ecossistema Backend (.NET / C#)**. Apaixonado por arquitetura de software, boas práticas de engenharia (**Clean Architecture**, **Domain-Driven Design (DDD)**, **SOLID**) e desenvolvimento de APIs RESTful robustas e performáticas.
 
-- 🔭 Desenvolvendo soluções SaaS modernas, APIs robustas e plataformas completas do zero ao deploy.
-- 💡 Foco constante em **Performance**, **Design Patterns (SOLID, Clean Code)** e **Experiência do Usuário (UX/UI)**.
-- 📍 Residente em Vila Velha - ES / Rio de Janeiro - RJ.
-- ☕ Sempre aberto a novos desafios técnicos, conexões profissionais e projetos inovadores.
+No frontend, tenho conhecimento e experiência prática integrando aplicações completas com **React**, **Next.js**, **TypeScript** e **Tailwind CSS**.
+
+- 📍 Natural de **São Gonçalo - RJ**, residente em **Vila Velha - ES**.
+- 🎯 Foco contínuo em **Backend**, regras de negócio, modelagem de dados e arquiteturas limpas.
+- 💡 Experiência em autenticação (JWT), ORMs (Entity Framework Core), bancos relacionais e integração com serviços cloud.
 
 ---
 
-### 🛠️ Minhas Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-#### **Backend & Arquitetura**
+#### **Backend & Arquitetura (Foco Principal)**
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql" alt="Backend and Database" />
 </p>
 
-#### **Frontend & UI/UX**
+#### **Frontend & UI (Desenvolvimento Full Stack)**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" alt="Frontend" />
 </p>
 
-#### **Bancos de Dados & Storage**
+#### **DevOps, Cloud & Ferramentas**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,cloudflare,aws" alt="Databases and Cloud" />
-</p>
-
-#### **DevOps, Ferramentas & Ambientes**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman" alt="DevOps and Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,visualstudio,vscode,postman,cloudflare" alt="Tools and Cloud" />
 </p>
 
 </div>
-
----
-
-### 🌟 Projeto em Destaque
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3>👑 <a href="https://github.com/IgorCorrea01/saas-trancistas">TrançaFlow — SaaS para Trancistas & Estúdios de Beleza</a></h3>
-      <p>
-        Plataforma SaaS full-stack para automação de orçamentos personalizados, catálogo público com formulário dinâmico, upload em Cloudflare R2, cobrança de sinal PIX e agenda integrada.
-      </p>
-      <p>
-        <b>Tech Stack:</b> <code>.NET 9</code> • <code>Clean Architecture</code> • <code>Next.js 15</code> • <code>React 19</code> • <code>TypeScript</code> • <code>PostgreSQL (Neon)</code> • <code>Cloudflare R2</code> • <code>Tailwind CSS</code>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -79,12 +57,8 @@ Desenvolvedor de Software **Full Stack** com sólida experiência no ecossistema
 <div align="center">
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=IgorCorrea01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCorrea01&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-</p>
-
-<p align="center">
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorCorrea01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IgorCorrea01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCorrea01&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
 
 </div>
@@ -92,5 +66,5 @@ Desenvolvedor de Software **Full Stack** com sólida experiência no ecossistema
 ---
 
 <div align="center">
-  <p>✨ <i>"Transformando ideias complexas em código limpo, elegante e escalável."</i> ✨</p>
+  <p>✨ <i>"Escrevendo código limpo, estruturado e com propósito."</i> ✨</p>
 </div>
